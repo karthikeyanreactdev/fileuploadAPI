@@ -1,0 +1,4 @@
+Please enter local in config.js file tempDir
+
+ex: tempDir:'D://task//uploadedFiles//' 
+directory is must to read a file.
